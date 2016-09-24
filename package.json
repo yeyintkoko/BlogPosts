@@ -1,0 +1,34 @@
+{
+  "name": "blogposts",
+  "version": "1.0.0",
+  "description": "Blog posts using libraries - express, react and redux",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.14.0",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",    
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeyintkoko/BlogPosts.git"
+  },
+  "keywords": [
+    "blog",
+    "articles",
+    "posts",
+    "express",
+    "react",
+    "redux"
+  ],
+  "author": "Ye Yint Ko Ko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeyintkoko/BlogPosts/issues"
+  },
+  "homepage": "https://github.com/yeyintkoko/BlogPosts#readme"
+}
